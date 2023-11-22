@@ -1,5 +1,3 @@
-[![MasterHead](https://imrubel.blogspot.com/2014/09/differences-between-programmers-and.html)
-
 <h1 align="center">Hi 👋, I'm İBRAHİM HALİL KOROÇ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
