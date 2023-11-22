@@ -1,4 +1,4 @@
-[![MasterHead]([http://pchocasi.com.tr/yazilimcilar-icin-5-duvar-kagidi-113711/](https://pchocasi.com.tr/wp-content/uploads/2021/05/nubelson-fernandes-Xqckh_XVU4-unsplash-1024x1024.jpg))
+[![MasterHead](https://tr.pinterest.com/pin/66287425758087446/)
 
 <h1 align="center">Hi 👋, I'm İBRAHİM HALİL KOROÇ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
